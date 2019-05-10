@@ -1,0 +1,2 @@
+language: golang-faas-mod
+fprocess: ./handler
